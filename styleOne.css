@@ -1,0 +1,43 @@
+	body {background-image: linear-gradient(90deg, #3e8da1, #001e42) }
+	
+	.mainHeading { text-align: center;
+	font-family: Garamond, sans-serif;
+	color:#0c9323;
+	text-shadow: 2px 2px #3b4d3a;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	magrin-right: auto;
+	}
+	.subHeading { text-align: center;
+	font-family: Garamond, sans-serif;
+	color:#0c9323;
+	text-shadow: 2px 2px #3b4d3a;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	magrin-right: auto;
+	}
+	.container {  text-align: center;
+	font-family: Garamond, sans-serif;
+	color:#0c9323;
+	text-shadow: 2px 2px #3b4d3a;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	magrin-right: auto;
+	}
+	
+	#btn1 {background-color: orange; border-radius:4px;}
+	#btn2 {background-color: orange; border-radius:4px;}
+	#btn3 {background-color: orange; border-radius:4px;}
+	
+	#start {
+	background-color: #a8fa65;
+	color: #0c9323;
+	text-shadow: 1px 1px #ccbb37;
+	border-radius:4px;
+	}
+	.answers { visibility: hidden;}
+	#audioStuff { visibility: hidden;}
+	#Boa { visibility: hidden;}
